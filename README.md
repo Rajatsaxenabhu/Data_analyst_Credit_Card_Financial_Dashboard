@@ -48,6 +48,7 @@ The main goal of this project is to:
 
 This `README.md` should now provide a clear structure for stakeholders and developers on how to set up, develop, and maintain the **Credit Card Weekly Dashboard** using Power BI and PostgreSQL.
 
+```bash
 ```
 customer dashboard
 !['customer dashboard'](./Output/Dashboard-Customer_page.jpg')
