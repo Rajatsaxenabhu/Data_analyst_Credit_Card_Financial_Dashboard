@@ -54,7 +54,7 @@ customer dashboard
 !['customer dashboard'](./Dashboard-Customer_page.jpg)
 
 transaction dashboard
-!['transaction dashboard'](.Output/Dashboard-Transaction.jpg')
+!['transaction dashboard'](./Output/Dashboard-Transaction.jpg')
 
 ```
 
