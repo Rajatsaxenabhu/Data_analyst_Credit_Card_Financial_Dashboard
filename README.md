@@ -51,10 +51,10 @@ This `README.md` should now provide a clear structure for stakeholders and devel
 ```bash
 ```
 customer dashboard
-!['customer dashboard'](./Output/Dashboard-Customer_page.jpg')
+!['customer dashboard'](./Dashboard-Customer_page.jpg)
 
 transaction dashboard
-!['transaction dashboard'](./Output/Dashboard-Transaction.jpg')
+!['transaction dashboard'](./Dashboard-Transaction.jpg')
 
 ```
 
