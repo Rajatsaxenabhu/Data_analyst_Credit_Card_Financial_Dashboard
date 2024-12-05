@@ -50,10 +50,10 @@ This `README.md` should now provide a clear structure for stakeholders and devel
 
 ```
 customer dashboard
-!['customer dashboard']('Output/Customer_Dashboard.png')
+!['customer dashboard'](./Output/Dashboard-Customer_page.jpg')
 
 transaction dashboard
-!['transaction dashboard'](Output/Transaction_Dashboard.png')
+!['transaction dashboard'](./Output/Dashboard-Transaction.jpg')
 
 ```
 
